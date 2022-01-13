@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "resepsambalado"
+    "site": "resepsambalado",
     "public": "public",
     "ignore": [
       "firebase.json",
