@@ -1,7 +1,7 @@
 baseURL = "https://resepsambalado.web.app"
 languageCode = "en-us"
 title = "Resep Sambalado"
-theme = "z"
+theme = "grid"
 
 [taxonomies]
   tag = ""
